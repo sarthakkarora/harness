@@ -1,5 +1,5 @@
 # Harness
-Harness Open Source is an open source development platform packed with the power of code hosting, automated DevOps pipelines, hosted development environments (Gitspaces), and artifact registries.
+Harness Open Source is an open source development platform packed with the power of code hosting, automated DevOps pipelines, hosted development environments, and artifact registries.
 
 ## Overview
 Harness Open source is an open source development platform packed with the power of code hosting, automated DevOps pipelines, Gitspaces, and artifact registries.
